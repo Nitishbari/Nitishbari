@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nitish Bari 👋
 
-<!--
-**Nitishbari/Nitishbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 **I AM ALL ABOUT:**
+Python | SQL | Backend Systems | Business Intelligence tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 TECH STACK
+
+### 🛠️ Languages & Core
+<!-- Add your badges here -->
+
+### 🧠 Data Science & AI/ML
+<!-- Add your badges here -->
+
+### 🌐 Web & Backend
+<!-- Add your badges here -->
+
+### ☁️ Cloud Technologies
+<!-- Add your badges here -->
+
+### 🗄️ Databases
+<!-- Add your badges here -->
+
+### 📊 BI Tools & Analysis
+<!-- Add your badges here -->
